@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="176" height="176" viewBox="0 0 176 176">
+  <defs>
+    <filter id="Ellipse_7" x="0" y="0" width="176" height="176" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#074968" flood-opacity="0.749"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2" transform="translate(24 21)">
+    <g id="_ÎÓÈ_1" data-name="—ÎÓÈ 1">
+      <path id="Path_1484" data-name="Path 1484" d="M64.475,17.464c44.077,0,26.9,73.043,0,73.043-25.405,0-44.077-73.043,0-73.043Z" fill="#ffe8be" fill-rule="evenodd"/>
+      <g transform="matrix(1, 0, 0, 1, -24, -21)" filter="url(#Ellipse_7)">
+        <circle id="Ellipse_7-2" data-name="Ellipse 7" cx="64" cy="64" r="64" transform="translate(24 21)" fill="#a9cf54"/>
+      </g>
+      <path id="Path_1485" data-name="Path 1485" d="M34.479,52s2.887,38.566-4.1,48.974,34.2-.394,34.2-.394l.012-72.208Z" fill="#302e33" fill-rule="evenodd"/>
+      <path id="Path_1486" data-name="Path 1486" d="M94.664,52s-2.887,38.566,4.1,48.974-34.2-.394-34.2-.394l-.012-72.208Z" fill="#302e33" fill-rule="evenodd"/>
+      <path id="Path_1487" data-name="Path 1487" d="M109.353,109.155c-1.259-3.028-1.023-6.044-11.112-10.743-4.749-1.123-17-2.732-19.32-7.042-1.174-2.179-.891-5.25-.891-10.961L51.25,80.114c0,5.752.226,8.819-1.085,10.973C47.7,95.141,31.658,98.1,26.681,99.422c-8.477,3.768-7.508,6.058-8.627,9.126a63.992,63.992,0,0,0,91.3.607Z" fill="#f9dca4" fill-rule="evenodd"/>
+      <path id="Path_1488" data-name="Path 1488" d="M78.037,80.317l-.031,5.18a11.914,11.914,0,0,0,1.139,6.236c-9.221,7.084-26.5,5.375-28.409-12.3Z" fill-rule="evenodd" opacity="0.11"/>
+      <path id="Path_1489" data-name="Path 1489" d="M39.581,50.088c-6.127,2.672-.915,15.348,2.941,15.292a63.88,63.88,0,0,1-2.941-15.292Z" fill="#f9dca4" fill-rule="evenodd"/>
+      <path id="Path_1490" data-name="Path 1490" d="M90.112,50.086c6.131,2.676.918,15.35-2.939,15.294a63.859,63.859,0,0,0,2.939-15.294Z" fill="#f9dca4" fill-rule="evenodd"/>
+      <path id="Path_1491" data-name="Path 1491" d="M64.443,17.949c18.065,0,25.635,12.841,26.1,27.686.636,20.319-11.754,44.386-26.1,44.386C50.858,90.021,38.129,65.129,38.9,44.6c.539-14.4,7.9-26.654,25.542-26.654Z" fill="#ffe8be" fill-rule="evenodd"/>
+      <path id="Path_1492" data-name="Path 1492" d="M64.586,28.369C63.387,33.363,57.751,49.427,34.479,52c-2.423-40.02,28.034-39.038,30.107-38.924,2.075-.114,32.532-1.1,30.107,38.924-23.27-2.568-28.908-18.633-30.107-23.626Z" fill="#464449" fill-rule="evenodd"/>
+      <path id="Path_1493" data-name="Path 1493" d="M109.353,109.155c-30.8,9.482-70.769,3.759-82.672-9.733-8.477,3.768-7.508,6.058-8.627,9.126a63.992,63.992,0,0,0,91.3.607Z" fill="#e9573e" fill-rule="evenodd"/>
+      <path id="Path_1494" data-name="Path 1494" d="M88.641,96.348l2.218.524-.008,16.814h-2.21V96.348Z" fill="#e9573e" fill-rule="evenodd"/>
+      <path id="Path_1495" data-name="Path 1495" d="M49.365,92c0,.027,1.819,9.219,15.625,9.219,13.755,0,14.594-8.919,14.6-8.943l.389.379c0,.025-1.168,9.739-14.985,9.739-14.078,0-16.064-10-16.07-10.035Z" fill="#464449" fill-rule="evenodd"/>
+      <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="3.133" cy="3.955" rx="3.133" ry="3.955" transform="translate(61.745 98.457)" fill="#464449"/>
+    </g>
+  </g>
+</svg>

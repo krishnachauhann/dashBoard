@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="29" viewBox="0 0 32 29">
+  <g id="dashboard_icon" data-name="dashboard icon" transform="translate(-346 -161.767)">
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(346 161.767)" fill="none" stroke="#000" stroke-width="3">
+      <rect width="22" height="9" rx="1" stroke="none"/>
+      <rect x="1.5" y="1.5" width="19" height="6" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(378 161.767) rotate(90)" fill="none" stroke="#000" stroke-width="3">
+      <rect width="29" height="9" rx="1" stroke="none"/>
+      <rect x="1.5" y="1.5" width="26" height="6" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(346 171.767)" fill="none" stroke="#000" stroke-width="3">
+      <rect width="14" height="9" rx="1" stroke="none"/>
+      <rect x="1.5" y="1.5" width="11" height="6" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(361 171.767)" fill="none" stroke="#000" stroke-width="3">
+      <rect width="7" height="9" rx="1" stroke="none"/>
+      <rect x="1.5" y="1.5" width="4" height="6" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(346 181.767)" fill="none" stroke="#000" stroke-width="3">
+      <rect width="12" height="9" rx="1" stroke="none"/>
+      <rect x="1.5" y="1.5" width="9" height="6" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(359 181.767)" fill="none" stroke="#000" stroke-width="3">
+      <rect width="9" height="9" rx="1" stroke="none"/>
+      <rect x="1.5" y="1.5" width="6" height="6" rx="0.5" fill="none"/>
+    </g>
+  </g>
+</svg>
