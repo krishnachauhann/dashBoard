@@ -8,6 +8,7 @@
     padding: 3rem 0 2.8rem;
     position: relative;
     height: 100%;
+        min-height: 100vh;
 }
 .d-none{
     display: none;
@@ -25,6 +26,7 @@
     text-align: center;
     border-radius: 12px;   
     height: 100%;
+        min-height: 90vh;
 
 }
 .dashLeft h4,
